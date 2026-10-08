@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Layered Network Telemetry for Security Incident Triage: Hop-Level AS/Geo Path Context and Per-Layer Active Probing at a Remote Satellite-Connected Site"
+authors:
+  - family-names: "Suntaxi Cocanguilla"
+    given-names: "Medardo Jairo"
+version: "1.0"
+date-released: "2026-10-08"
+license: CC-BY-4.0
+repository-code: "https://github.com/jhairos/layered-telemetry-security-triage"
+keywords:
+  - network security
+  - incident triage
+  - IP reputation
+  - botnet
+  - email security
+  - traceroute
